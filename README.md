@@ -9,7 +9,7 @@ You can find the paper for this GitHub repository : https://asa.scitation.org/do
 
 ## Users Guides
 
-[Android](https://github.com/ssprl/Formant-Frequency-based-Speech-Enhancement-LogMMSE/blob/master/User%E2%80%99s%20Guide-%20iOS%20(F-logMMSE)-final.pdf)
+[Android](https://github.com/ssprl/Real-time-Blind-source-separation-using-IVA/blob/main/User%E2%80%99s%20Guide-%20Android%20IVA%20BSS.pdf)
 
 ## Requirements 
 - Pixel 1 
